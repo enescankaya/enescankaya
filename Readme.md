@@ -17,7 +17,7 @@ I am a Senior Computer Engineer specializing in interface development with exper
 
 <div align="left">
   
-  ### 🛠️ Core Expertise
+  ###  Core Expertise
   - C# (WPF/WinForms)
   - C++ (Qt Cross Platform)
   - Embedded Systems Software
@@ -28,7 +28,7 @@ I am a Senior Computer Engineer specializing in interface development with exper
   <tr>
     <td valign="top" width="50%">
       
-## 💻 Technology Stack
+##  Technology Stack
       
 <div align="center">
   
@@ -49,7 +49,7 @@ I am a Senior Computer Engineer specializing in interface development with exper
     </td>
     <td valign="top" width="50%">
       
-## 📊 GitHub Analytics
+##  GitHub Analytics
       
 <div align="center">
   
@@ -66,13 +66,13 @@ I am a Senior Computer Engineer specializing in interface development with exper
 
 <div align="center">
   
-  ## 🏆 GitHub Trophies
+  ##  GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=enescankaya&theme=whitehub&no-frame=true&no-bg=false&margin-w=4)
   
-  ### 💡 Random Dev Quote
+  ###  Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
-  ### 📊 Top Contributed Repositories
+  ###  Top Contributed Repositories
   ![](https://github-contributor-stats.vercel.app/api?username=enescankaya&limit=5&theme=white&combine_all_yearly_contributions=true)
   
   ---
