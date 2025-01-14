@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a Senior Computer Engineering Student specializing in interface development with expertise in cross-platform application development and embedded systems. With a strong foundation in technical skills and teamwork, I have successfully delivered diverse projects and continually strive to enhance my knowledge and abilities.
+I am a Senior Computer Engineer specializing in interface development with expertise in cross-platform application development and embedded systems. With a strong foundation in technical skills and teamwork, I have successfully delivered diverse projects and continually strive to enhance my knowledge and abilities.
 
 <div align="left">
   
