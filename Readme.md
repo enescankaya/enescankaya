@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enescankaya&label=Profile%20views&color=0e75b6&style=flat" alt="msametyildiz" /> </p>
+
 <div align="center">
   <h1>Enes Cankaya</h1>
   <h3>Senior Computer Engineer | Interface Development Specialist</h3>
